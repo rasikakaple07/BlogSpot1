@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background: url(Untitled3.png)
+}
+.header{
+    margin: 50px auto;
+}
+
+.container{
+    /* display: inline; */
+    width: 50%;
+    margin: 50px auto;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(245, 160, 63);
+    box-shadow: 10px 10px rgb(230, 107, 45);
+}
+
+.container a{
+    text-decoration: none;
+    color: black;
+}
+.container a:hover{
+      text-decoration: underline;
+      color: rgb(11, 82, 224);
+}
+
+.delete{
+    /* display: inline; */
+    width: 50%;
+    margin: 50px auto;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(245, 160, 63);
+    box-shadow: 10px 10px rgb(230, 107, 45);
+}
+.delete a{
+    text-decoration: none;
+    color: black;
+}
+.delete a:hover{
+      text-decoration: underline;
+      color: rgb(11, 82, 224);
+}
